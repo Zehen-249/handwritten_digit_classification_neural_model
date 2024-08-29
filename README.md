@@ -7,7 +7,7 @@ This project is a neural network-based classifier for recognizing handwritten di
 - Hidden Layer 2: 250 units with ReLU activation
 - Dropout Layer 2: Dropout rate of 0.1
 - Output Layer: 10 units with softmax activation (corresponding to 10 digit classes)
-  The model is trained on a dataset of 5000 images (60000 for training and 10000 for testing).
+  The model is trained on a dataset of 7000 images (60000 for training and 10000 for testing).
 
 ## Dataset
 
@@ -26,3 +26,4 @@ You can install the required libraries using pip:
 pip install numpy matplotlib scikit-learn tensorflow seaborn
 
 ```
+
